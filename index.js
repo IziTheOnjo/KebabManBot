@@ -35,4 +35,4 @@ var command = messageArray[0];
 
 });
 
-bot.login(process.env.token);
+client.login(process.env.token);
